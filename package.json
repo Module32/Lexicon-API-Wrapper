@@ -1,0 +1,19 @@
+{
+	"name": "@module64/lexiconapi",
+	"version": "2.2.0",
+	"description": "A wrapper for Lexicon's API",
+	"license": "MIT",
+	"repository": "module32/lexicon-api",
+	"main": "index.mjs",
+	"dependencies": {
+		"node": "^17.1.0",
+		"node-fetch": "^2.6.6",
+		"npm": "^8.1.4"
+	},
+	"keywords": [
+		"wrapper",
+		"lexicon",
+		"api",
+		"module64"
+	]
+}
