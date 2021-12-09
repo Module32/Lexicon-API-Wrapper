@@ -52,4 +52,4 @@ lexicon.classes(1).then(data => {
 
 That's the Lexicon documentation for now! For any questions, start a discussion in this repository. :D
 
-###### Lexicon Quickstart, 2021 - really simple!
+###### Lexicon API Documentation, 2021 - really simple!
